@@ -1,4 +1,4 @@
-# Out-Of-Distribution Is Not a Magic: The Clash Between Rejection Rate and Model Success
+# Out-Of-Distribution Is Not Magic: The Clash Between Rejection Rate and Model Success
 
 
 This repository contains code and results for the research paper titled "Out-Of-Distribution Is Not a Magic: The Clash Between Rejection Rate and Model Success". The goal of this study was to evaluate the performance of different out-of-distribution (OOD) detection techniques in the context of network traffic classification. 
